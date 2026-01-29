@@ -1,2 +1,2 @@
 # 1-hari-1-baris
-biar github ku ijo ijo
+biar github ku ijo ijo   
